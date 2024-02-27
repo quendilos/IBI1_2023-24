@@ -1,5 +1,4 @@
-This is an example file for reflection in IBI1_2023-24.
 
-During this course, I have learnt version control, how to navigate Unix-like systems and how to write simple programs in Python.
+During the course, most of things goes well except that I cannot get the clone from beginning to the end, with such error message "atal: unable to access 'https://github.com/quendilos/IBI1_2023-24/': Failure when receiving data from the peer" So I edit it directly on Github. 
 
-I have also learnt to write careful instructions when communicating online!
+I have learned how to push and manage my own repo and set up them, besides how to do version control, I am also more familiar to GIT and github after this course.
