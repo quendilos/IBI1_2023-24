@@ -1,5 +1,5 @@
 # What does this piece of code do?
-# Answer:prodeuce a random number as a sum of 100 values, and each value is randomized form 1 to 10.
+# Answer:prodeuce a random number as a sum of 100 values, and each value is an integer randomized form 1 to 10.
 
 
 # Import libraries
