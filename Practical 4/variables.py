@@ -13,9 +13,11 @@ W= X or Y
 print(W)
 #W is True, 
 #If both X and Y are false, W is false, otherwise W is true.
+
 #Truth table show as below
-#X Y w
-#T T T
+
+#X Y W
+#T T F
 #T F T
 #F T T
 #F F F
