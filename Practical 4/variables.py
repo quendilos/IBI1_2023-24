@@ -9,7 +9,8 @@ print(f)
 
 X=1==1
 Y=1!=1
-W= X or Y
+W= (X or Y) and not (X==Y)
+
 print(W)
 #W is True, 
 #If both X and Y are false, W is false, otherwise W is true.
