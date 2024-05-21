@@ -1,0 +1,10 @@
+According to the python task, here is the analysis output:
+the difference score between human and mouse is 47
+the identical rate in this case is 92.55150554675119%
+the difference score between human and rat is 52
+the identical rate in this case is 91.75911251980983%
+the difference score between mouse and rat is 20
+the identical rate in this case is 96.82539682539682%
+
+So that rat the mouse are most closely related
+And mouse is a better organism model for human in this case.
